@@ -10,5 +10,5 @@ My work deals with vibrational sum frequency generation (vSFG) spectroscopy.
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=silanglois&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=silanglois&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
